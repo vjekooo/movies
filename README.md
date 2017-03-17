@@ -1,0 +1,3 @@
+# Movies
+Search movies and... 
+Simple movie searching app just to learn how to use APIs and stuff
